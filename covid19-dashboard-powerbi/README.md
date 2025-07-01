@@ -4,6 +4,9 @@
 
 This project showcases an interactive Power BI dashboard analyzing the impact of COVID-19 in the United Kingdom. The goal was to transform raw public health data into meaningful insights that could help stakeholders understand key trends in infection, mortality, and vaccination rates across time.
 
+- **Live Dashboard**
+🔗 [https://app.fabric.microsoft.com/links/7gemwaMI-J?ctid=65b52940-f4b6-41bd-833d-3033ecbcf6e1&pbi_source=linkShare&bookmarkGuid=a1b063e4-0524-4e5e-b869-47630eb82504]
+
 ---
 
 ## 🎯 Objectives
